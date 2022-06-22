@@ -25,9 +25,6 @@ Here are some ideas to get you started:
  🌆 **Location:** Hyderabad native, with a passion for being a programmer and contributing to open source.
 
  📚 Learned C, C++, SQL, HTML, CSS, Python.
---Been practicing coding on online judges.
---Implemented my knowledge in making projects making personal and group projects. 
---Currently learning Java and Design and Analysis of Algorithm.
 
  💻 **My future:** I hope to work as an ML Engineer and work with a diverse team in a renowned company.
  
