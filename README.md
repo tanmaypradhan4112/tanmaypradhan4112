@@ -54,4 +54,3 @@ src="https://img.icons8.com/ios-filled/344/jupyter.png" alt="jupyter notebook" w
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmaypradhan4112&show_icons=true&locale=en&layout=compact" alt="language stats" /></p>
  
  <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=tanmaypradhan4112&show_icons=true alt=rahuldkjain /> </p>
- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaypradhan4112&" alt="stats" /></p>
