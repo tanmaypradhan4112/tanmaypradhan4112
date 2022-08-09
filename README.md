@@ -49,8 +49,3 @@ src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" alt="Github" width
 src="https://img.icons8.com/ios-filled/344/visual-studio.png" alt="VSCODE" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img 
 src="https://img.icons8.com/ios-filled/344/jupyter.png" alt="jupyter notebook" width="40" height="40"/> </a>
-
- 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmaypradhan4112&show_icons=true&locale=en&layout=compact" alt="language stats" /></p>
- 
- <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=tanmaypradhan4112&show_icons=true alt=rahuldkjain /> </p>
