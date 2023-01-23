@@ -4,8 +4,6 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=tanmaypradhan4112&label=PROFILE+VIEWS alt=profilecounter/> </p>
 
-- 😄 **Pronouns:** He/him
-
 - 👨‍🎓 **Education:** UnderGraduating from CMR Institute Of Technology,2024.
 
 - 🌆 **Location:** Hyderabad native, with a passion for being a programmer and contributing to open source.
