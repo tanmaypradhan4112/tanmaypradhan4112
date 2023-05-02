@@ -25,8 +25,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <!-- icon by https://www.flaticon.com/ -->
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img 
-src="https://cdn-icons.flaticon.com/png/512/3665/premium/3665899.png?token=exp=1657552746~hmac=d735707897fcc22451d5e166add6ba6f" alt="C" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img 
 src="https://img.icons8.com/ios-filled/344/c-plus-plus.png" alt="CPP" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img 
@@ -39,10 +37,6 @@ src="https://cdn-icons-png.flaticon.com/512/25/25252.png" alt="html5" width="40"
 src="https://cdn-icons-png.flaticon.com/512/732/732007.png" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img 
 src="https://cdn-icons-png.flaticon.com/512/288/288882.png" alt="SQL" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img 
-src="https://cdn-icons.flaticon.com/png/512/4626/premium/4626050.png?token=exp=1657553546~hmac=4b34f8fc232e6a53edfa2a32ff107cbf" alt="Git" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img 
-src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" alt="Github" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img 
 src="https://img.icons8.com/ios-filled/344/visual-studio.png" alt="VSCODE" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img 
