@@ -41,3 +41,8 @@ src="https://cdn-icons-png.flaticon.com/512/288/288882.png" alt="SQL" width="40"
 src="https://img.icons8.com/ios-filled/344/visual-studio.png" alt="VSCODE" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img 
 src="https://img.icons8.com/ios-filled/344/jupyter.png" alt="jupyter notebook" width="40" height="40"/> </a>
+
+
+<!-- Most Language Used -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmaypradhan4112&show_icons=true&locale=en&layout=compact" alt="tanmaypradhan4112" /></p>
+
